@@ -1,1 +1,1 @@
-# MIDS705: Introductory Machine Learning for Data Science
+# IDS705: Introductory Machine Learning for Data Science
