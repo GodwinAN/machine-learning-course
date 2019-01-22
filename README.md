@@ -1,1 +1,1 @@
-# machine-learning-course
+# MIDS705: Introductory Machine Learning for Data Science
